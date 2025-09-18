@@ -1,5 +1,4 @@
-# Tech & Electronics Billing System
-
+![Bill_System](https://github.com/user-attachments/assets/e10bea4c-6354-485f-a3d8-f54d3de9b74c)
 A desktop application for managing sales and generating invoices for electronics retail businesses.
 
 ## Features
@@ -11,7 +10,7 @@ A desktop application for managing sales and generating invoices for electronics
 - Automated PDF invoice generation
 - Sales history tracking
 
-## Requirements
+
 
 - Python 3.8+
 - ReportLab library
